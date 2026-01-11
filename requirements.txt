@@ -1,5 +1,4 @@
 runpod
-torch
 numpy
 Pillow
 rembg
