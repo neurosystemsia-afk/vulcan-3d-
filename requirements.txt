@@ -1,0 +1,10 @@
+runpod
+torch
+numpy
+Pillow
+rembg
+trimesh
+imageio
+uvicorn
+fastapi
+python-multipart
