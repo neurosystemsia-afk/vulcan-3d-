@@ -1,5 +1,5 @@
 runpod
-numpy==1.23.5
+numpy<2.0
 rembg
 trimesh
 imageio
@@ -10,3 +10,4 @@ einops
 omegaconf
 transformers
 scipy
+torchmcubes
