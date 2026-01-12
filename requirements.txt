@@ -1,5 +1,5 @@
 runpod
-numpy
+numpy<2.0
 Pillow
 rembg
 trimesh
@@ -7,3 +7,6 @@ imageio
 uvicorn
 fastapi
 python-multipart
+einops
+omegaconf
+transformers
